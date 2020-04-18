@@ -15,9 +15,9 @@ You can modify the Game Words in the gamewords.txt file,
 but inside the "gamewords.txt" file, each line should be a word and there must be no space after the word.
 
 ### Example: 
-Word1
-Word2
-Test
+Word1\
+Word2\
+Test\
 Word4
 
 ## Built With
