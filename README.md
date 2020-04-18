@@ -1,3 +1,5 @@
+![hangman-cpp](https://repository-images.githubusercontent.com/256640125/61d6d200-80f6-11ea-8d0d-49343330ad1d)
+
 # Hangman C++
 
 A C++ Terminal Game
