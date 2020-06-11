@@ -11,7 +11,7 @@ A C++ Terminal Game
 * If you make 6 errors you lose;
 * If you reveal all the letters you win;
 
-## Hwo to edit the words
+## How to edit the words
 
 You can modify the Game Words inside the `gamewords.txt` file, each line should be a word and there must be no space after the word.
 
